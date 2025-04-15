@@ -36,6 +36,26 @@ Perhaps it makes more sense to structure the guidance by answers to the question
 
 Not sure.
 
+## Structure of the session
+
+- Shared document using https://hackmd.io/
+- Breakout groups divided by topic (people can pick what's most interesting to them)
+
+### Asynchronous survey
+- There will be a free-text survey that can be completed asynchronously and anonymously. 
+The responses in this survey will be redacted to remove any identifiable information, and then published as a dataset. ??
+
+#### Post-conference
+- A group of volunteers will collate the information in the shared document into a position statement and guidance document.
+- The final version will be shared prior to publication, and individuals may choose to (a) sign the document, (b) be credited as a contributor, or (c) not have their name anywhere on the document. *(need to think about this)*
+- The final document will then be published to Zenodo (along with the survey responses?) so that it can be referenced in future.
+
+## Structure of the position statement
+
+- Could do benefits/risks table or subheadings + bullet points. Quite generic but perhaps important to state explicitly.
+- May be worth separating short-term and long-term risks
+- Points of consensus? How the hell to we determine consensus..
+
 ## Resources
 
 - https://www.turing.ac.uk/blog/using-generative-ai-write-code-guide-researchers
