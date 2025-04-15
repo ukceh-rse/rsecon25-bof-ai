@@ -42,14 +42,14 @@
 
 - [ ] In-Person
 - [ ] Online
-- [ ] Hybrid (Both In-Person and Online Presenters)
+- [x] Hybrid (Both In-Person and Online Presenters)
 
 ## Conference theme
 
 > Please select which of the two conference themes your submission aligns best with. If you feel it aligns well with both then please select both.
 
-- [ ] RSE and Research Excellence
-- [ ] RSE as Digital Research Infrastructure
+- [x] RSE and Research Excellence
+- [x] RSE as Digital Research Infrastructure
 
 ## Justification for BoF session
 
@@ -62,4 +62,4 @@
 ## Length
 
 - [ ] 90 mins
-- [ ] 180 mins
+- [x] 180 mins
