@@ -6,7 +6,26 @@
 
 > Enter an abstract of your submission. This should be a brief and attention-grabbing summary of your submission.
 
-todo
+Generative AI tools for programming have grown extremely quickly ... 
+While there are still substantive concerns about the technology, and impedences to the discourse between communities with different values... blah
+
+
+Do you have a positive vision of a future of Research Software Engineering with GenAI coding tools, and would like to discuss how to bring it into being?
+Or perhaps you have a concern and see a policy gap that needs addressing.
+Do you have an experience that you think the RSE community would benefit from hearing about?
+Or perhaps you are feeling overwhelmed, unsure of what this technology means for you  / how to respond.
+Or are you simply happy to lend your ear to colleagues?
+Whatever the nature of your experience or background, you are most welcome at this BoF session.
+
+*or perhaps instead, bullet point a list of questions we hope to discuss?*
+
+This session will be split into two 90 minutes halves, with the first dedicated to sharing experiences and perspectives in a small-group setting.
+
+The second half aims to build on these insights to sketch a first draft of a position statement and guidance document, which we hope will be widely endorsed/supported within our community.
+
+We feel that RSEs have a unique vantage point on this subject and can provide something of real value, both to our community and those around us, if we work together and speak with one voice.
+Tabulating generic benefits, risks and "best practice" won't cut it: best practice for whom? In pursuit of what aims?
+
 
 ## Prerequisites (150 words)
 
@@ -141,3 +160,21 @@ The final document will then be published to Zenodo.
 - Survey - not sure if we need this if individuals can contribute to the Hackmd document anonymously
 - Does the Hackmd document get published as supplementary to the position statement? Probably not. But I feel like we would struggle to publish a document with majority but not consensus opinions, unless we were able to meaningfully represent the minority opinions too.
 
+
+# Scratch
+
+- Early post-ChatGPT rush to put out position statements and guidance, usually top down, felt quite rushed and tick-box, in many cases have not evolved in the last 2 years despite the significant advances in the technology.
+
+- Are you, like we are, struggling to know what advice to give your colleagues? Struggling to know what's best for yourself? Grappling with a ... ? Struggling to bring divergent xyz into a coherent / unified xyz
+
+Research Software Engineers have a unique vantage point with respect to ...,
+and can (and frankly ought to) be a beacon of moderation and reason...
+RSEs are some of the best placed to provide critical insight and guidance on the use of AI code generation tools.
+
+
+Participants might share:
+
+- Success stories
+- Frustrations / warnings to others
+- Positive vision of the future
+- Concerns for the future 
