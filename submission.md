@@ -6,7 +6,7 @@
 
 > Enter an abstract of your submission. This should be a brief and attention-grabbing summary of your submission.
 
-
+todo
 
 ## Prerequisites (150 words)
 
@@ -80,21 +80,25 @@ The final document will then be published to Zenodo.
 
 > Please comment on how you will ensure your content is accessible, which may include referring to relevant sections of the [conference’s accessibility guidance](https://rsecon25.society-rse.org/conference-policies/accessibility/). Also note other considerations such as the contrast of colours, the shape and size of graphics and fonts, e.t.c.
 
-Raise issues via hackmd so preferential treatment is not given to in-person/more confident people.
+- We will make sure any shared documents are accessible from one's device at the time that they are being referred to.
+- Can you customise Hackmd colours/size yourself? I think so - can at least do dark/light mode.
+
 
 ## Hybrid delivery
-
-> How will you ensure that both remote and in-person participants have a comparable experience? Is there anything that might pose a challenge to streaming your proposal?
-> 
-> We appreciate that you may not have fully-formed answers to these questions at this stage, but your responses will enable the organisers to support you in delivering a successful presentation.
-
-## In-Person or Online Delivery
 
 > How will your content be delivered?
 
 - [ ] In-Person
 - [ ] Online
 - [x] Hybrid (Both In-Person and Online Presenters)
+
+> How will you ensure that both remote and in-person participants have a comparable experience? Is there anything that might pose a challenge to streaming your proposal?
+> 
+> We appreciate that you may not have fully-formed answers to these questions at this stage, but your responses will enable the organisers to support you in delivering a successful presentation.
+
+- Potential difficulty: breakout rooms that are a mix of in-person and online. How do we deal with this? Do we a allow it?
+- We will ask participants to raise issues by writing in a section of the hackmd, so that preferential treatment is not given to in-person/more confident people happy to raise their hand and speak up.
+
 
 ## Conference theme
 
@@ -106,12 +110,30 @@ Raise issues via hackmd so preferential treatment is not given to in-person/more
 ## Justification for BoF session
 
 > Why do you think your content should be given a BoF session?
-> 
+>
 > How will this content build or showcase a community? 
-> 
+
+AI code tools is unlike many subjects of BoF sessions and SIGs, whereby individuals 'opt in' due to personal or professional interest in the subject.
+
+GenAI coding technology has already embarked on a significant incursion into the domain of RSEs, touching on all of the four the pillars of Research Software Engineering (development, community, training and policy), irrespective of our level of attention.
+
+We know that many RSEs feel a degree of responsibility in providing guidance on the use of these tools, which compels them - if they were not interested anyway - to seek a deeper and more nuanced understanding than most analyses provide.
+
+Moreover, we suspect that many RSEs are, like us, reckoning with what these technologies mean for our own professional future - how precisely should we be advocating for ourselves? What are we asking for, and what are we promising in return for being listened to?
+
+However, the RSE response is currently fragmented.
+
+RSECon is the best opportunity to bring RSEs together and attempt a more unified/coherent step forward, beyond blog posts and threads on social media.
+Opportunity to construct a shared vision for the future of Research Software Engineering, and developed a strategy for bring it into being.
+
 > How will you disseminate and build on session content after the conference?
 
+A group of volunteers will develop the draft position statement and guidance document.
 
+The final version (aim for end of September) will be shared with attendees prior to publication.
+Individuals may choose to (a) sign the document, (b) be credited as a contributor, or (c) not have their name anywhere on the document.
+
+The final document will then be published to Zenodo.
 
 
 # Outstanding questions

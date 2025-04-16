@@ -74,9 +74,6 @@ Not sure.
 
 ## Structure of the session
 
-- Shared document using https://hackmd.io/
-- Breakout groups divided by topic (people can pick what's most interesting to them)
-
 ### Asynchronous survey
 - There will be a free-text survey that can be completed asynchronously and anonymously. 
 The responses in this survey will be redacted to remove any identifiable information, and then published as a dataset. ??
