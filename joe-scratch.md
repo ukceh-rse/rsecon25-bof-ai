@@ -1,5 +1,41 @@
 # Scratch space
 
+## Abstract
+
+Or perhaps, like us, you are struggling to know 
+
+Or would you be happy to share your insights and perspectives with colleagues?
+Do you have:
+- An experience
+- A positive vision of the future
+- A warning or concern
+that you'd like to share with RSE colleagues?
+
+
+## Justification / motivation
+
+- Early post-ChatGPT rush to put out position statements and guidance, usually top down, felt quite rushed and tick-box, in many cases have not evolved in the last 2 years despite the significant advances in the technology.
+
+- "Best practice" doesn't cut it: best practice for whom? In persuit of what aims?
+
+- Are you, like we are, struggling to know what advice to give your colleagues? Struggling to know what's best for yourself? Grappling with a ... ? Struggling to bring divergent xyz into a coherent / unified xyz
+
+- This BoF session aims to achieve two things
+
+1. a space to gather / share experiences and perspectives with RSE colleagues and a forum to share insights and raise concerns.
+
+2. 
+
+The session will be oriented towards this tangible output, which we hope xyz, and act as a resource that individual RSEs can draw on as they see fit in their own context (at times where they feel compelled to provide guidance)
+
+Research Software Engineers have a unique vantage point with respect to ...,
+and can (and frankly ought to) be a beacon of moderation and reason...
+RSEs are some of the best placed to provide critical insight and guidance on the use of AI code generation tools.
+However, RSEs tend to be distributed thinly across a large number of institutions and research groups.
+
+We feel that this is an opportunity for RSEs to come together and speak with one voice.
+
+
 ## Topics / areas / questions to discuss
 
 - How to make good use of AI as an RSE / experienced programmer (but still learner)
