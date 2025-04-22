@@ -6,25 +6,31 @@
 
 > Enter an abstract of your submission. This should be a brief and attention-grabbing summary of your submission.
 
-Generative AI tools for programming have grown extremely quickly ... 
-While there are still substantive concerns about the technology, and impedences to the discourse between communities with different values... blah
-
-
 Do you have a positive vision of a future of Research Software Engineering with GenAI coding tools, and would like to discuss how to bring it into being?
 Or perhaps you have a concern and see a policy gap that needs addressing.
 Do you have an experience that you think the RSE community would benefit from hearing about?
-Or perhaps you are feeling overwhelmed, unsure of what this technology means for you  / how to respond.
+Or perhaps you are feeling overwhelmed, unsure of what this technology means for you / how to respond.
 Or are you simply happy to lend your ear to colleagues?
 Whatever the nature of your experience or background, you are most welcome at this BoF session.
 
 *or perhaps instead, bullet point a list of questions we hope to discuss?*
 
-This session will be split into two 90 minutes halves, with the first dedicated to sharing experiences and perspectives in a small-group setting.
+Generative AI has already embarked on a significant incursion into the domain of RSEs, touching all four pillars of Research Software Engineering (development, community, training, and policy).
 
-The second half aims to build on these insights to sketch a first draft of a position statement and guidance document, which we hope will be widely endorsed/supported within our community.
+Excitement / concern / superposition of both?
 
-We feel that RSEs have a unique vantage point on this subject and can provide something of real value, both to our community and those around us, if we work together and speak with one voice.
-Tabulating generic benefits, risks and "best practice" won't cut it: best practice for whom? In pursuit of what aims?
+We know that many RSEs feel a degree of responsibility in providing guidance and leadership on the use of these tools, which compels them - if they were not interested anyway - to seek a deeper and more nuanced understanding than most analyses provide.
+
+Moreover, we suspect that many RSEs are, like us, reckoning with what these technologies mean for our own professional futures - how precisely should we be advocating for ourselves? What, if anything, are we asking for, and what are we promising in return for being listened to?
+
+This session will be split into two 90 minutes halves.
+
+1. The first half will be dedicated to sharing experiences and perspectives in small break-out groups focused on topics chosen by participants.
+2. The second half aims to build on these insights to draft a position statement and guidance document on the use of GenAI tools, which we hope will be widely signed/endorsed/supported by our community.
+
+We feel that RSEs have a unique vantage point on this subject, and can provide something of real value to those working with GenAI coding tools within and outside our community.
+(a different type of leadership ?)
+But this works best if we work together and speak with one voice!
 
 
 ## Prerequisites (150 words)
@@ -132,18 +138,25 @@ The final document will then be published to Zenodo.
 >
 > How will this content build or showcase a community? 
 
-AI code tools is unlike many subjects of BoF sessions and SIGs, whereby individuals 'opt in' due to personal or professional interest in the subject.
+Broadly speaking, the response to AI tools from RSEs has been fragmented.
+We believe that RSECon is a fantastic opportunity to attempt a more unified step forward, to construct a shared vision for the future of Research Software Engineering, and develop a coherent strategy for bringing it into being.
 
-GenAI coding technology has already embarked on a significant incursion into the domain of RSEs, touching on all of the four the pillars of Research Software Engineering (development, community, training and policy), irrespective of our level of attention.
+We feel that a BoF session dedicated to community discussions about GenAI coding tools will be extremely valuable to many of our colleagues, and serve to strengthen personal and professional ties within our community.
+Technological paradigm shifts can be a source of excitement for many, but can have a demoralising / destabilising effect on others; for example, if one feels as though one's expertise has abruptly diminished in value, or that one is falling behind.
 
-We know that many RSEs feel a degree of responsibility in providing guidance on the use of these tools, which compels them - if they were not interested anyway - to seek a deeper and more nuanced understanding than most analyses provide.
+Unfortunately, people can be reluctant to discuss their use, or indeed lack of use, of GenAI, for fear of judgement or even professional consequences.
+This BoF session will providing a supportive, non-judgemental space where individuals can share their perspectives with other RSEs in similar situations.
 
-Moreover, we suspect that many RSEs are, like us, reckoning with what these technologies mean for our own professional future - how precisely should we be advocating for ourselves? What are we asking for, and what are we promising in return for being listened to?
+By tying the session to the production of a guidance document, we hope to move quickly beyond group therapy and towards more constructive conversations - participants should come away from the session with a greater sense of clarity ...
 
-However, the RSE response is currently fragmented.
+We also feel that focusing (in the second session) on the production of a position statement and guidance document is a worthwhile and timely endeavour:
 
-RSECon is the best opportunity to bring RSEs together and attempt a more unified/coherent step forward, beyond blog posts and threads on social media.
-Opportunity to construct a shared vision for the future of Research Software Engineering, and developed a strategy for bring it into being.
+- Existing guidance, much of which was hastily written in the wake of Chat-GPT, is often too generic and outdated to be useful.
+- Research software is different from commercial software - we need our own solution.
+- RSEs are extremely well-positioned to provide leadership and guidance on this subject; together, we combine deep experience in software, research, teaching and management, ...
+- The RSE community has aligned interests here - RSEs should not be left to fight their individual cases without the support of their community
+- There is precedent for things going _really badly_ in domains where AI adoption has been driven by top-down mandates, with little organised collective action by software developers themselves. (We are in a much better position: Academia and research software has not moved quite as quickly on this as commercial software)
+
 
 > How will you disseminate and build on session content after the conference?
 
@@ -163,6 +176,15 @@ The final document will then be published to Zenodo.
 
 # Scratch
 
+Despite an initial flurry of activity as organisations raced to declare themselves...existing guidance is often too generic and outdated to be useful.
+
+There has been a steep rise in the voluntary use of GenAI coding tools by software professionals, including many who harbour substantive concerns about the technology.
+For RSEs who prefer not to use such tools themselves, 
+Whether or not they are users themselves, RSEs will increasingly encounter code that has been partially or fully generated by AI --- 'opting out' is not a viable option.
+
+How can we avoid a future where RSEs are seen as the final 'expert review' stage in a software production pipeline in which most development is performed by researchers prompting GenAI, or even worse, cut out off the software development process altogether.
+
+
 - Early post-ChatGPT rush to put out position statements and guidance, usually top down, felt quite rushed and tick-box, in many cases have not evolved in the last 2 years despite the significant advances in the technology.
 
 - Are you, like we are, struggling to know what advice to give your colleagues? Struggling to know what's best for yourself? Grappling with a ... ? Struggling to bring divergent xyz into a coherent / unified xyz
@@ -178,3 +200,8 @@ Participants might share:
 - Frustrations / warnings to others
 - Positive vision of the future
 - Concerns for the future 
+
+Tabulating generic benefits, risks and "best practice" won't cut it: best practice for whom? In pursuit of what aims?
+
+AI code tools is unlike many subjects of BoF sessions and SIGs, whereby individuals 'opt in' due to personal or professional interest in the subject.
+and impedences to the discourse between communities with different values... blah
