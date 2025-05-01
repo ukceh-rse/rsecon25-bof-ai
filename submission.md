@@ -6,31 +6,23 @@
 
 > Enter an abstract of your submission. This should be a brief and attention-grabbing summary of your submission.
 
-Do you have a positive vision of a future of Research Software Engineering with GenAI coding tools, and would like to discuss how to bring it into being?
-Or perhaps you have a concern and see a policy gap that needs addressing.
-Do you have an experience that you think the RSE community would benefit from hearing about?
-Or perhaps you are feeling overwhelmed, unsure of what this technology means for you / how to respond.
-Or are you simply happy to lend your ear to colleagues?
-Whatever the nature of your experience or background, you are most welcome at this BoF session.
+Do you have a positive vision for a future of Research Software Engineering with GenAI coding tools, or do you feel that there are underappreciated risks?
+Are you interested in working together as a community of RSEs to shape policy and practice?
+Whether you have experiences to share, questions to raise, or simply want to listen and learn, you are most welcome at this Birds of a Feather session.
 
-*or perhaps instead, bullet point a list of questions we hope to discuss?*
+Generative Aritifical Intelligence (GenAI) has already embarked on a significant incursion into the domain of RSEs, impacting all four pillars of Research Software Engineering: development, community, training, and policy.
+Many RSEs feel a responsibility to provide guidance and leadership on the use of these tools, which is a very tall order.
 
-Generative AI has already embarked on a significant incursion into the domain of RSEs, touching all four pillars of Research Software Engineering (development, community, training, and policy).
-
-Excitement / concern / superposition of both?
-
-We know that many RSEs feel a degree of responsibility in providing guidance and leadership on the use of these tools, which compels them - if they were not interested anyway - to seek a deeper and more nuanced understanding than most analyses provide.
-
-Moreover, we suspect that many RSEs are, like us, reckoning with what these technologies mean for our own professional futures - how precisely should we be advocating for ourselves? What, if anything, are we asking for, and what are we promising in return for being listened to?
+Moreover, we suspect that many RSEs are, like us, reckoning with what these technologies mean for our own professional futures.
+How should we be advocating for ourselves today, and in a future where use of GenAI coding tools is widespread and normalised? 
 
 This session will be split into two 90 minutes halves.
 
-1. The first half will be dedicated to sharing experiences and perspectives in small break-out groups focused on topics chosen by participants.
-2. The second half aims to build on these insights to draft a position statement and guidance document on the use of GenAI tools, which we hope will be widely signed/endorsed/supported by our community.
+* The first half will be dedicated to sharing experiences and perspectives in small break-out groups focused on topics chosen by participants.
+* The second half will build on these insights to draft a position statement and guidance document on the use of GenAI tools.
 
-We feel that RSEs have a unique vantage point on this subject, and can provide something of real value to those working with GenAI coding tools within and outside our community.
-(a different type of leadership ?)
-But this works best if we work together and speak with one voice!
+We feel that RSEs have a unique vantage point on this subject, which enables us to provide authentic and relevant guidance to the wider research community.
+Our ambition is to develop and publish a document that enjoys wide support among RSEs - to speak with one voice carrying the weight of our community!
 
 
 ## Prerequisites (150 words)
@@ -43,9 +35,10 @@ There are no prerequisites for this session, other than access to an internet-co
 
 > How will your attendees benefit from your session? What are the expected takeaways for your audience? Consider the diversity of your audience if it is a broad or general interest talk.
 
-Attendees will have an opportunity to share insights and experiences, learn from each other and build relationships...
+Attendees will have an opportunity to share insights and experiences, learn from each other and form valuable connections.
 
 The insights gathered in this session will form the basis of a position statement and guidance document that will attempt to represent the views of the RSE community towards these technologies.
+Note that "views" does not necessarily imply consensus; we anticipate there being areas of dissensus which may be worth including in their own right.
 
 Attendees who remain for the second half of the session will be directly involved in the drafting of a position statement and guidance document on the use of GenAI-based coding tools.
 
@@ -94,19 +87,16 @@ There will already be a skeleton of the document, but participants will have an 
 
 ### Post-conference
 
-A group of volunteers will develop the draft position statement and guidance document.
+A group of volunteers will finalise the draft position statement and guidance document, aiming for publication on Zenodo with 6 weeks of the conference.
 
-The final version (aim for end of September) will be shared with attendees prior to publication.
-Individuals may choose to (a) sign the document, (b) be credited as a contributor, or (c) not have their name anywhere on the document.
-
-The final document will then be published to Zenodo.
+Prior to publication, the final version will be shared with attendees, who may choose to sign and/or be credited for their contribution.
 
 ## Accessibility
 
 > Please comment on how you will ensure your content is accessible, which may include referring to relevant sections of the [conference’s accessibility guidance](https://rsecon25.society-rse.org/conference-policies/accessibility/). Also note other considerations such as the contrast of colours, the shape and size of graphics and fonts, e.t.c.
 
 - We will make sure any shared documents are accessible from one's device at the time that they are being referred to.
-- Can you customise Hackmd colours/size yourself? I think so - can at least do dark/light mode.
+- HackMD documents can be viewed in dark or light mode.
 
 
 ## Hybrid delivery
@@ -121,8 +111,8 @@ The final document will then be published to Zenodo.
 > 
 > We appreciate that you may not have fully-formed answers to these questions at this stage, but your responses will enable the organisers to support you in delivering a successful presentation.
 
-- Potential difficulty: breakout rooms that are a mix of in-person and online. How do we deal with this? Do we a allow it?
-- We will ask participants to raise issues by writing in a section of the hackmd, so that preferential treatment is not given to in-person/more confident people happy to raise their hand and speak up.
+- Potential difficulty: breakout rooms that are a mix of in-person and online. How do we deal with this? Do we allow it?
+- We will ask participants to raise issues by writing in a section of the Hackmd, so that preferential treatment is not given to in-person/more confident people happy to raise their hand and speak up.
 
 
 ## Conference theme
@@ -142,12 +132,13 @@ Broadly speaking, the response to AI tools from RSEs has been fragmented.
 We believe that RSECon is a fantastic opportunity to attempt a more unified step forward, to construct a shared vision for the future of Research Software Engineering, and develop a coherent strategy for bringing it into being.
 
 We feel that a BoF session dedicated to community discussions about GenAI coding tools will be extremely valuable to many of our colleagues, and serve to strengthen personal and professional ties within our community.
-Technological paradigm shifts can be a source of excitement for many, but can have a demoralising / destabilising effect on others; for example, if one feels as though one's expertise has abruptly diminished in value, or that one is falling behind.
+Technological paradigm shifts can be a source of excitement for many, but can have a destabilising effect on others.
+Unfortunately, people can be reluctant to discuss their use, or indeed lack of use, of GenAI for fear of judgement or professional consequences.
+This BoF session will provide a supportive, non-judgemental space where individuals can share their perspectives with other RSEs in similar situations.
 
-Unfortunately, people can be reluctant to discuss their use, or indeed lack of use, of GenAI, for fear of judgement or even professional consequences.
-This BoF session will providing a supportive, non-judgemental space where individuals can share their perspectives with other RSEs in similar situations.
+By tying the BoF session to the production of a guidance document, we hope to focus participants' minds towards constructive, actionable guidance.
 
-By tying the session to the production of a guidance document, we hope to move quickly beyond group therapy and towards more constructive conversations - participants should come away from the session with a greater sense of clarity ...
+we hope to move quickly beyond group therapy and towards more constructive conversations - participants should come away from the session with a greater sense of clarity ...
 
 We also feel that focusing (in the second session) on the production of a position statement and guidance document is a worthwhile and timely endeavour:
 
@@ -160,12 +151,9 @@ We also feel that focusing (in the second session) on the production of a positi
 
 > How will you disseminate and build on session content after the conference?
 
-A group of volunteers will develop the draft position statement and guidance document.
+A group of volunteers will finalise the draft position statement and guidance document, aiming for publication on Zenodo with 6 weeks of the conference.
 
-The final version (aim for end of September) will be shared with attendees prior to publication.
-Individuals may choose to (a) sign the document, (b) be credited as a contributor, or (c) not have their name anywhere on the document.
-
-The final document will then be published to Zenodo.
+Prior to publication, the final version will be shared with attendees, who may choose to sign and/or be credited for their contribution.
 
 
 # Outstanding questions
@@ -205,3 +193,16 @@ Tabulating generic benefits, risks and "best practice" won't cut it: best practi
 
 AI code tools is unlike many subjects of BoF sessions and SIGs, whereby individuals 'opt in' due to personal or professional interest in the subject.
 and impedences to the discourse between communities with different values... blah
+
+and would like to discuss how to bring it into being?
+Or perhaps you have a concern and see a policy gap that needs addressing.
+Do you have an experience that you think the RSE community would benefit from hearing about?
+Or perhaps you are feeling overwhelmed, unsure of what this technology means for you / how to respond.
+Or are you simply happy to lend your ear to colleagues?
+Whatever the nature of your experience or background, you are most welcome at this BoF session.
+
+We hope will be widely signed/endorsed/supported by our community.
+
+What, if anything, are we asking for, and what are we promising in return for being listened to?
+
+Technological paradigm shifts can be a source of excitement for many, but can have a destabilising effect on others; for example, if one feels as though one's expertise has abruptly diminished in value, or that one is falling behind.
