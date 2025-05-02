@@ -1,6 +1,4 @@
-# RSE Perspectives / Position Statement on AI Code Generation Tools
-
-(AI Code Generation Tools: Discussion and Position Statement/ Guidance drafting)
+# RSE Perspectives AI Code Generation Tools: Open discussion and drafting of a guidance document
 
 ## Abstract (300 words)
 
