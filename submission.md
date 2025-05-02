@@ -4,11 +4,12 @@
 
 > Enter an abstract of your submission. This should be a brief and attention-grabbing summary of your submission.
 
+Generative Artificial Intelligence (GenAI) has already embarked on a significant incursion into the domain of RSEs, impacting all four pillars of Research Software Engineering: development, community, training, and policy.
+
 Do you have a positive vision for a future of Research Software Engineering with GenAI coding tools, or do you feel that there are underappreciated risks?
 Are you interested in working together as a community of RSEs to shape policy and practice?
 Whether you have experiences to share, questions to raise, or simply want to listen and learn, you are most welcome at this Birds of a Feather session.
 
-Generative Artificial Intelligence (GenAI) has already embarked on a significant incursion into the domain of RSEs, impacting all four pillars of Research Software Engineering: development, community, training, and policy.
 GenAI sits at the intersection of a wide range of issues, making the very idea of 'best practice' troublesome and contentious, or at best strongly context-dependent.
 Even so, many RSEs feel a responsibility to provide guidance and leadership on the use of these tools.
 
@@ -101,9 +102,8 @@ Prior to publication, the final version will be shared with attendees, who may c
 
 > Please comment on how you will ensure your content is accessible, which may include referring to relevant sections of the [conference’s accessibility guidance](https://rsecon25.society-rse.org/conference-policies/accessibility/). Also note other considerations such as the contrast of colours, the shape and size of graphics and fonts, e.t.c.
 
-- We will 
 - We will make sure any shared documents are accessible from one's device at the time that they are being referred to.
-- HackMD documents can be viewed in dark or light mode.
+- HackMD documents can be viewed in dark or light mode. We will look into how to specify an appropriate font in HackMD.
 - We will ask that attendees try to avoid using terminology that is likely to be confusing or unfamiliar to non-native English speakers, and will enforce this in the draft document.
 
 
@@ -144,7 +144,7 @@ Unless we feel confident that we can promise good quality hybrid breakout sessio
 > How will this content build or showcase a community? 
 
 In recent _months_, let alone years, the abilities of GenAI programming tools have increased dramatically.
-Broadly speaking, the response from RSEs has been fragmented; to the best of our knowledge, there has been no formal, collective response.
+Broadly speaking, the response from RSEs has been fragmented; at least we are not aware of any formal, collective response that attempts to meaningfully represent the community.
 This remains true even while much of the existing guidance, issued in haste in the aftermath of the launch of Chat-GPT, with coding tools mostly an afterthought, become increasingly outdated and irrelevant.
 
 We believe that RSECon is a fantastic opportunity to attempt a more unified step forward: to construct a shared vision for the future of Research Software Engineering in a world with GenAI coding tools, and develop a coherent strategy for bringing it into being.
@@ -167,4 +167,9 @@ In other cases, such as advocating for a certain policy or practice within their
 A group of volunteers will finalise the draft position statement and guidance document, aiming for publication on Zenodo with 6 weeks of the conference.
 
 Prior to publication, the final version will be shared with attendees, who may choose to sign and/or be credited for their contribution.
+
+
+## Additional information
+
+If there are other submissions that propose something similar, we'd be grateful if the organisers would put us in touch so that we can coordinate, or even possibly combine our efforts if there is significant overlap.
 
