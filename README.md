@@ -1,13 +1,5 @@
-# RSECon25 BoF: AI code generation tools
+# RSE perspectives on AI code generation tools: Open discussion and drafting of a guidance document
 
-Submission deadline: 23:59 BST on 25 April 2025.
+This repository contains preparatory material for a 'Birds of a Feather' (BoF) session that will be run at [RSECon2025](https://rsecon25.society-rse.org/) in September. The session abstract can be found [here](https://virtual.oxfordabstracts.com/event/75166/submission/107).
 
-
-## Resources
-
-- https://www.turing.ac.uk/blog/using-generative-ai-write-code-guide-researchers
-- CEH guidance (internal, 2 years old...): https://cehacuk.sharepoint.com/sites/hub-library/SitePages/Use-of-artificial-intelligence-(AI)-tools-including-large-language-models-(LLMs)-such-as-ChatGPT.aspx
-- https://www.nice.org.uk/about/what-we-do/our-research-work/use-of-ai-in-evidence-generation--nice-position-statement
-- https://arxiv.org/pdf/2408.01904
-- https://jamanetwork.com/journals/jama/fullarticle/2816213
-- https://www.pnas.org/doi/10.1073/pnas.2407886121
+If you would like to get in touch about this session, feel free to email me at joemar\[at\]ceh.ac.uk.
