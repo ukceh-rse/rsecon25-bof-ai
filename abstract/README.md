@@ -19,7 +19,7 @@ How should we be advocating for ourselves, both today and in a future where use 
 This session will be split into two 90 minutes halves.
 
 * The first half will be dedicated to sharing experiences and perspectives in small break-out groups focused on topics chosen by participants.
-* The second half will build on these insights to draft a position statement  on the use of GenAI tools in research software.
+* The second half will build on these insights to draft a position statement on the use of GenAI tools in research software.
 
 We feel that RSEs have a unique vantage point on this subject, which enables us to provide authentic and relevant guidance to the wider research community.
 Our ambition is to develop and publish a document that enjoys broad support among RSEs.
@@ -74,11 +74,16 @@ The first half is focused on a broad discussion based on topics chosen by partic
 - Share summary (70-85)
 - Closing remarks, indication of content of second half (85-90)
 
-This half of the BoF session could support a large number (up to 50, say) of attendees, since the breakout discussion and shared Hackmd document format is quite scalable. The price of having a very large group would be that summaries of each group's discussions would need to be very concise, and we would need to be particularly strict on how long each representative was allowed to speak.
+This half of the BoF session could support a large number (up to 50, say) of attendees, since the breakout discussion and shared Hackmd document format is quite scalable.
+
+The price of having a very large group would be that summaries of each group's discussions would need to be very concise, and we would need to be particularly strict on how long each representative was allowed to speak.
 
 ### Second half
 
-Drawing on the discussions from the first half, the second half has an explicit focus on drafting a position statement and identifying critical resources to support the RSE community. There will already be a skeleton of the position statement document, prepared in advance of the conference by the organisers. However, participants will have an opportunity to change the structure and content (after an initial discussion). Critical resources identified by the group will be used to define future working groups focused on developing these resources. 
+Drawing on the discussions from the first half, the second half has an explicit focus on drafting a position statement and identifying critical resources to support the RSE community. 
+
+There will already be a skeleton of the position statement document, prepared in advance of the conference by the organisers. 
+However, participants will have an opportunity to change the structure and content (after an initial discussion). Critical resources identified by the group will be used to define future working groups focused on developing these resources. 
 
 - Introduction, overview of the agenda and the skeleton of the document, vote on sections for the first breakout session (0-10)
 - First breakout/drafting session (10-40)
