@@ -14,12 +14,12 @@ GenAI sits at the intersection of a wide range of issues, making the very idea o
 Even so, many RSEs feel a responsibility to provide guidance and leadership on the use of these tools.
 
 Moreover, we suspect that many RSEs are, like us, reckoning with what these technologies mean for our own professional futures.
-How should we be advocating for ourselves, both today and in a future where use of GenAI coding tools is widespread and normalised? 
+How should we be advocating for ourselves, both today and in a future where use of GenAI coding tools may be widespread and normalised? 
 
 This session will be split into two 90 minutes halves.
 
 * The first half will be dedicated to sharing experiences and perspectives in small break-out groups focused on topics chosen by participants.
-* The second half will build on these insights to draft a position statement and guidance document on the use of GenAI tools.
+* The second half will build on these insights to draft a position statement on the use of GenAI tools in research software.
 
 We feel that RSEs have a unique vantage point on this subject, which enables us to provide authentic and relevant guidance to the wider research community.
 Our ambition is to develop and publish a document that enjoys broad support among RSEs.
@@ -37,10 +37,10 @@ There are no prerequisites for this session, other than access to an internet-co
 
 Attendees will have an opportunity to share insights and experiences with GenAI programming tools, learn from each other and form valuable connections.
 
-The insights gathered in this session will form the basis of a position statement and guidance document that will attempt to represent the views of the RSE community towards these technologies.
+The insights gathered in this session will form the basis of a position statement that will attempt to represent the views of the UK RSE community towards these technologies.
 Note that "views" does not necessarily imply consensus; we anticipate there being areas of dissensus, which may be worth including in their own right.
 
-Attendees who remain for the second half of the session will be directly involved in the drafting of the position statement and guidance document.
+Attendees who remain for the second half of the session will be directly involved in the drafting of the position statement.
 
 ## Content plan
 
@@ -75,13 +75,15 @@ The first half is focused on a broad discussion based on topics chosen by partic
 - Closing remarks, indication of content of second half (85-90)
 
 This half of the BoF session could support a large number (up to 50, say) of attendees, since the breakout discussion and shared Hackmd document format is quite scalable.
+
 The price of having a very large group would be that summaries of each group's discussions would need to be very concise, and we would need to be particularly strict on how long each representative was allowed to speak.
 
 ### Second half
 
-The second half has an explicit focus on drafting a position statement and guidance document, drawing on the discussions from the first half.
-There will already be a skeleton of the document, prepared in advance of the conference by the organisers.
-However, participants will have an opportunity to change the structure and content (after an initial discussion).
+Drawing on the discussions from the first half, the second half has an explicit focus on drafting a position statement and identifying critical resources to support the RSE community. 
+
+There will already be a skeleton of the position statement document, prepared in advance of the conference by the organisers. 
+However, participants will have an opportunity to change the structure and content (after an initial discussion). Critical resources identified by the group will be used to define future working groups focused on developing these resources. 
 
 - Introduction, overview of the agenda and the skeleton of the document, vote on sections for the first breakout session (0-10)
 - First breakout/drafting session (10-40)
@@ -94,9 +96,9 @@ Unless planned attendance is very low in the second half, we probably want to in
 
 ### Post-conference
 
-A group of volunteers will finalise the draft position statement and guidance document, aiming for publication on Zenodo with 6 weeks of the conference.
+A group of volunteers including the session organizers (some of whom have funding from Schmidt Sciences to work on the report) will finalise the draft position statement. This will be supplemented by high level summaries of potential guidance documents aimed at launching working groups for further development. 
 
-Prior to publication, the final version will be shared with attendees, who may choose to sign and/or be credited for their contribution.
+Our aim is to publish these outputs on Zenodo within 6 weeks of the conference. Prior to publication, final versions of the documents will be shared with attendees for feedback and offering an opportunity to sign and/or be credited for their contribution.
 
 ## Accessibility
 
